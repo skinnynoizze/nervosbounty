@@ -1,4 +1,4 @@
-# Issue an SUDT Token on Layer 1 and Deposit it to Layer 2
+## Issue an SUDT Token on Layer 1 and Deposit it to Layer 2
 
 1. A link to the Layer 1 address you funded on the Testnet Explorer.  
 https://explorer.nervos.org/aggron/address/ckt1qyq0re72caj4az9wwps2ex2mdrl804kpf8hqmu5rkr
